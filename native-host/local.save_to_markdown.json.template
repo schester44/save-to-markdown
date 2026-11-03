@@ -1,0 +1,9 @@
+{
+  "name": "local.save_to_markdown",
+  "description": "Save links to a configured Markdown Index.md",
+  "path": "/ABSOLUTE/PATH/TO/save-to-markdown-host",
+  "type": "stdio",
+  "allowed_extensions": [
+    "save-to-markdown@local.example"
+  ]
+}
